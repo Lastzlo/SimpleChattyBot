@@ -6,3 +6,6 @@ content:
 - String
 - Relational operators
 - The for-loop
+- Generic methods
+- Type Erasure
+- Generics and Reflection

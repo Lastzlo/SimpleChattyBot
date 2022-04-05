@@ -1,10 +1,10 @@
 type: choice
 is_multiple_choice: false
 options:
-- text: int
-- text: String
-- text: char
 - text: double
+- text: int
+- text: char
+- text: String
 message_correct: Congratulations!
 message_incorrect: Incorrect solution
 files:

@@ -1,11 +1,11 @@
 type: choice
 is_multiple_choice: true
 options:
-- text: String str = new String("Hello");
-- text: String str = "Hel" + "l" + 'o';
-- text: String str = 'Hello';
-- text: String str = "Hello";
 - text: String str = s"Hello";
+- text: String str = 'Hello';
+- text: String str = "Hel" + "l" + 'o';
+- text: String str = "Hello";
+- text: String str = new String("Hello");
 message_correct: Congratulations!
 message_incorrect: Incorrect solution
 files:

@@ -1,8 +1,8 @@
 type: choice
 is_multiple_choice: true
 options:
+- text: n++
 - text: n + 1
-- text: n += 1
 - text: ++n
 - text: n = n + 1
 message_correct: Congratulations!

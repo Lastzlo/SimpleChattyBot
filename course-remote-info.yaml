@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/371177/additional_files.json
   is_template_based: true
   use_ide: true
-update_date: Mon, 27 Dec 2021 14:24:55 UTC
+update_date: Tue, 05 Apr 2022 09:38:06 UTC
 stages:
 - id: 614
   step: 9925
@@ -35,12 +35,12 @@ topics:
     theory_id: 3518
   - title: Comments
     theory_id: 3520
+  - title: Scanning the input
+    theory_id: 9055
   - title: Coding style conventions
     theory_id: 12411
   - title: Naming variables
     theory_id: 3513
-  - title: Scanning the input
-    theory_id: 9055
   2:
   - title: Arithmetic operations
     theory_id: 3519

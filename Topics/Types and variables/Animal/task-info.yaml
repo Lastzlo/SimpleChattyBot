@@ -1,10 +1,10 @@
 type: choice
 is_multiple_choice: false
 options:
-- text: '"String"'
-- text: '"animal"'
 - text: '"hedgehog"'
 - text: animal
+- text: '"String"'
+- text: '"animal"'
 message_correct: Congratulations!
 message_incorrect: Incorrect solution
 files:
@@ -22,3 +22,5 @@ files:
 feedback_link: https://hyperskill.org/learn/step/5029#comment
 status: Unchecked
 record: -1
+selected_options:
+- 0

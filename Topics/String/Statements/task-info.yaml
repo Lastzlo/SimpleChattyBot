@@ -1,13 +1,13 @@
 type: choice
 is_multiple_choice: true
 options:
-- text: <b>str.charAt(n)</b> returns a character that has the index n.
-- text: <b>str.substring(0, 5)</b> returns a substring from 0 to 4 indexes (inclusive)
-    of the string.
 - text: <b>str.substring(0, 3)</b> returns a substring from 0 to 3 indexes (inclusive)
     of the string.
-- text: <b>str.get(n)</b> returns a character that has the index n.
+- text: <b>str.substring(0, 5)</b> returns a substring from 0 to 4 indexes (inclusive)
+    of the string.
+- text: <b>str.charAt(n)</b> returns a character that has the index n.
 - text: <b>str[n]</b> returns a character that has the index n.
+- text: <b>str.get(n)</b> returns a character that has the index n.
 message_correct: Congratulations!
 message_incorrect: Incorrect solution
 files:

@@ -1,11 +1,11 @@
 type: choice
 is_multiple_choice: true
 options:
-- text: '&gt;&gt;&gt;'
 - text: '&lt;&gt;'
 - text: =
 - text: ==
 - text: '&lt;&lt;'
+- text: '&gt;&gt;&gt;'
 - text: '!='
 - text: '&gt;'
 - text: '&lt;='
